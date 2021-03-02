@@ -1,0 +1,15 @@
+.text {
+    margin: 64px 0;
+    text-align: center;
+}
+.text :nth-child(1) {
+    margin: 56px 0;
+}
+.buttons {
+    text-align: center;
+}
+.buttons *
+{
+    margin: 0 16px;
+    padding: 16px;
+}
